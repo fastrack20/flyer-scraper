@@ -1,5 +1,9 @@
 name: Update Flyer Data
 
+# Required to commit refreshed CSV data using the repository GITHUB_TOKEN.
+permissions:
+  contents: write
+
 on:
   schedule:
     # Check for updates every 6 hours

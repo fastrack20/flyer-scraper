@@ -1,5 +1,9 @@
 name: Update Product Data
 
+# Required to commit refreshed CSV data using the repository GITHUB_TOKEN.
+permissions:
+  contents: write
+
 on:
   schedule:
     # Run every 6 hours to get fresh product data
