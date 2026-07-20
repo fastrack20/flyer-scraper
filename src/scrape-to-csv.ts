@@ -36,7 +36,7 @@ async function scrapeAndSave() {
     const scraper = new SaveCaScraper();
 
     // Postal codes to scrape
-    const postalCodes = ['M5V2T6', 'V6B1A1', 'H3B2G7', 'T2P3M3', 'K1P1J1'];
+    const postalCodes = ['B3K0H6'];
 
     // Create data directory if it doesn't exist
     const dataDir = path.join(__dirname, '..', 'data');

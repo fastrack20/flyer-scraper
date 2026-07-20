@@ -33,11 +33,7 @@ This means your data is **always up-to-date** - if a store updates their flyer m
 Once deployed to GitHub, access the CSV files via:
 
 ```
-https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data/M5V2T6.csv
-https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data/V6B1A1.csv
-https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data/H3B2G7.csv
-https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data/T2P3M3.csv
-https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data/K1P1J1.csv
+https://raw.githubusercontent.com/fastrack20/flyer-scraper/main/data/B3K0H6.csv
 ```
 
 ### Using in Your App
@@ -45,7 +41,7 @@ https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data/K1P1J1.csv
 **JavaScript/TypeScript:**
 ```javascript
 const response = await fetch(
-  'https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data/M5V2T6.csv'
+  'https://raw.githubusercontent.com/fastrack20/flyer-scraper/main/data/B3K0H6.csv'
 );
 const csvData = await response.text();
 console.log(csvData);
@@ -55,7 +51,7 @@ console.log(csvData);
 ```python
 import pandas as pd
 
-url = 'https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data/M5V2T6.csv'
+url = 'https://raw.githubusercontent.com/fastrack20/flyer-scraper/main/data/B3K0H6.csv'
 df = pd.read_csv(url)
 print(df)
 ```
@@ -137,7 +133,7 @@ schedule:
 Edit `src/scrape-to-csv.ts` and modify the `postalCodes` array:
 
 ```typescript
-const postalCodes = ['M5V2T6', 'V6B1A1', 'YOUR_POSTAL_CODE'];
+const postalCodes = ['B3K0H6'];
 ```
 
 ## 🖥️ Local Development
@@ -152,7 +148,7 @@ npx ts-node src/scrape-to-csv.ts
 ### Test with Single Postal Code
 
 ```bash
-npx ts-node src/index.ts --postal-code M5V2T6
+npx ts-node src/index.ts --postal-code B3K0H6
 ```
 
 ## 💰 Cost
