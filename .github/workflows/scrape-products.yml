@@ -41,7 +41,9 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
-          if git diff --quiet data/*_products.csv 2>/dev/null; then
+          # `git diff` ignores untracked files, so a first product-data run
+          # used to be incorrectly reported as having no changes.
+          if [ -z "$(git status --porcelain -- data/)" ]; then
             echo "No changes detected in product data"
             echo "changes=false" >> $GITHUB_OUTPUT
           else
@@ -67,7 +69,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/*_products.csv
+          git add data/
           git commit -m "Update product data - $(date '+%Y-%m-%d %H:%M:%S %Z')"
           git push
       
