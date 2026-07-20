@@ -1,5 +1,6 @@
 import axios from 'axios';
 import { Flyer, Scraper, ProductDetail } from '../types';
+import { isGroceryStore } from '../grocery-stores';
 
 export class SaveCaScraper implements Scraper {
     private baseUrl = 'https://backflipp.wishabi.com/flipp';
@@ -20,7 +21,7 @@ export class SaveCaScraper implements Scraper {
 
             console.log(`Found ${rawFlyers.length} flyers.`);
 
-            return rawFlyers.map((raw: any) => ({
+            const flyers: Flyer[] = rawFlyers.map((raw: any) => ({
                 id: raw.id?.toString() || 'unknown',
                 storeName: raw.merchant || raw.name || 'Unknown Store',
                 storeAddress: this.extractAddress(raw),
@@ -30,6 +31,10 @@ export class SaveCaScraper implements Scraper {
                 postalCode: postalCode,
                 sourceUrl: `https://flipp.com/flyer/${raw.id}-${raw.flyer_run_id || ''}`
             }));
+
+            const groceryFlyers = flyers.filter(flyer => isGroceryStore(flyer.storeName));
+            console.log(`Keeping ${groceryFlyers.length} flyers from the grocery-store allowlist.`);
+            return groceryFlyers;
 
         } catch (error) {
             console.error('Error scraping flyers:', error);

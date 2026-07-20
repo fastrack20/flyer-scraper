@@ -5,6 +5,7 @@ A CLI tool that scrapes flyer data from Save.ca (via Flipp API) and saves it as 
 ## 🚀 Features
 
 - ✅ Scrapes flyer data for multiple Canadian postal codes
+- ✅ Keeps only the configured grocery-store flyers
 - ✅ Saves data as CSV files
 - ✅ **Checks for updates every 6 hours**
 - ✅ **Only commits when changes are detected** (smart updates)
@@ -112,6 +113,13 @@ To manually update the data:
 4. Click **Run workflow**
 
 ## ⚙️ Customization
+
+### Grocery Stores
+
+The scraper currently includes only these chains: Atlantic Superstore, Sobeys,
+No Frills, Giant Tiger, Walmart, Food Basics, and Wholesale Club. Edit
+`src/grocery-stores.ts` to add or remove chains. Food Basics is included now
+even though it may not yet have a flyer for this postal code.
 
 ### Change Update Frequency
 
