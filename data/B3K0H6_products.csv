@@ -1,4 +1,154 @@
 flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize,validUnit,imageUrl,validFrom,validTo,category,postalCode
+8052438,"Sobeys","N/A","TIM HORTONS Iced Coffee","N/A",$7.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","KICKING HORSE Ground Coffee","N/A",$13.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Coconut Milk","N/A",$2.29,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS Cheese Slices","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Bathroom Tissue","N/A",$10.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Liquid Detergent","N/A",$14.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS Waffle Cones or Bowls","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","CASCADE Dish Detergent","N/A",$19.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Prepared Fresh Daily Watermelon Slices or Quarters","N/A",$1.29,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Greek Yogurt","N/A",$6.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Skin Care","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Non-Alcoholic Beer","N/A",$9.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Mouthwash","N/A",$6.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Dried Fruit","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","ACTIVIA","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","INTERNATIONAL DELIGHT","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Mini Croissant Chicken Club Salad Sandwiches","N/A",$7.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Max","N/A",$9.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Sparkling Water","N/A",$12.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Organic Extra Firm Tofu","N/A",$3.69,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Bartlett Pears","N/A",$2.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Mini Seedless Cucumbers","N/A",$2.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","100% Pure Coconut Water","N/A",$2.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Frozen Entrees, Egg Rolls, Spring Rolls or Dumplings","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Fresh Canadian Lamb Loin Chops","N/A",$18.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Fresh Beef Oxtail","N/A",$15.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Peanut Butter","N/A",$6.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Premium Ice Cream","N/A",$5.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Large Watermelon","N/A",$8.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS Pickles","N/A",$6.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","PAM Cooking Sprays","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS, CARDINAL ROADHOUSE, BELMONT, MONTANIA, S JACK ASTOR'S OR SUNRISE BURGERS & MORE","N/A",$10.99,$13.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","KRAFT Jet-Puffed Marshmallows","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","JACK LINK'S or GOLDEN ISLAND Jerky","N/A",$6.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS Bologna","N/A",$1.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Prepared In-Store Cooked or Raw Garlic Shrimp Griller","N/A",$6.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","PARTICIPATING PRODUCTS","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Eggo Waffles","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Ice Cream","N/A",$4.94,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS Baby-Cut Carrots","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Fresh Pork Tenderloin","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Potato Style Buns","N/A",$5.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Avocado Salsa","N/A",$6.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Sparkling Water","N/A",$6.49,$6.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Seasoning Blends","N/A",$7.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Fruit or Nut Bar","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Squeak'rs Cheese Curds","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS Ground Chicken or Turkey","N/A",$6.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Roast & Ground Coffee","N/A",$9.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Organic Cold Press Shots","N/A",$3.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS Hash Browns","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","BUBLY or MONTELLIER Sparkling Water","N/A",$6.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Dry Cat Food","N/A",$13.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Asian Pears","N/A",$1.88,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","CHEETOS","N/A",$9.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","QUAKER Dipps or Chewy Granola Bars","N/A",$5.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS Hot Dog or Hamburger Buns","N/A",$1.88,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Fresh Premium Cheesy, Portabella Mushroom & Mozzarella, Bacon & Cheddar or Jalapeño & Cheddar or All Dressed Seasoned Medium Ground Chuck Beef Burgers","N/A",$9.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Fresh Medium Ground Beef Chuck","N/A",$6.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Green Kiwi","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Kaiser Buns","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS Potato Chips","N/A",$2.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS Charcuterie Trio","N/A",$12.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Cream Pies","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Cheeses","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Liquid Laundry Detergent","N/A",$26.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","HardBall Cat Litter","N/A",$19.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS Selected Raisins, Currants, Dates or Prunes","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Gum or Lozenges","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS Ready To Eat Popcorn","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Roast Fine Grind Coffee","N/A",$13.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Corn","N/A",$0.88,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","ACTIVIA","N/A",$4.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","VITA COCO Coconut Water","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Kolbassa","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Probiotic Kéfir 1 L or Yop Drinkable Yogurt 6 pk","N/A",$6.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS Texas Toast or Garlic Parmesan Breadsticks","N/A",$6.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","ASTRO Balkan Yogurt","N/A",$6.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Romaine Hearts","N/A",$2.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","EIGHT TREASURES Cooked and Peeled Shrimp","N/A",$8.88,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Small Bar Cakes","N/A",$7.99,$9.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Fresh Pork Tenderloin Kabobs with Vegetables","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS Cream Cheese or Spread","N/A",$3.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Plantain","N/A",$1.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Alcohol-Free Beer","N/A",$12.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Okra","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS Atlantic Salmon Burgers","N/A",$11.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Veggie Bacon 142 g or Veggie Grounds 340 g","N/A",$5.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS De-Alcoholized Beer","N/A",$10.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Broccoli","N/A",$1.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","LARSEN Wiener 900 g, MAPLE LEAF or SCHNEIDERS Bacon 375 g, THE CANADIAN BUTCHER Wiener 750 g, COMPLIMENTS Wiener 1 kg or Schneiders Jumbo","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Fresh Whole Skinless Pork Belly","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Sunflower Bouquet","N/A",$8.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Multivitamin Tablets","N/A",$18.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Gourmet Cookies","N/A",$7.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS Grape Tomatoes","N/A",$3.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS White or Whole Wheat Bread","N/A",$2.89,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","HAYTER'S FARM Turkey Products","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Soft Drinks","N/A",$7.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Single Layer Shortcakes","N/A",$14.99,$17.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS Hot Dog or Hamburger Buns","N/A",$1.88,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Fruit Drink","N/A",$2.79,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Iced Tea","N/A",$1.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Frozen Entrées 200-340 g or CHAPMAN'S Markdale Creamery Ice Cream","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Spring Water","N/A",$5.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Cheese Sticks","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Organic Broccoli","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","ALCAN Foil 50 ft or Non-Stick 25 ft","N/A",$4.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Red or Black Plums","N/A",$3.79,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS or COMPLIMENTS BALANCE Salad Dressings","N/A",$3.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Liquid Hand Soap","N/A",$2.29,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","All Butter Pastries","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Fresh Medium Ground Chuck Beef Burgers","N/A",$8.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Mackerel or Sardines in Sauce","N/A",$1.29,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","EXCELSIOR Genuine Jamaican Water Crackers","N/A",$2.29,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","From Atlantic Canada Fresh Choice Oysters","N/A",$1.25,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS Apple Juice","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS Waste Bags","N/A",$8.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","KRAFT Philadelphia Dips","N/A",$7.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Fresh Wild Haddock Fillets","N/A",$13.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Sugar","N/A",$3.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS Dishwasher Rinse Aid","N/A",$2.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Potatoes","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS or PANACHE Chicken Wings, Meat Appetizers, Meatballs, Egg Rolls or Spring Rolls","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Kettle Cooked Chips Honey Dill","N/A",$8.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","3D White or Pro Health Toothpaste, Floss or Toothbrushes","N/A",$4.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Entertaining Deli Trays","N/A",$22.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Keurig K-Cups® Pods","N/A",$22.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Mini Croissants","N/A",$2.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Wild Caught Canada Lobster Meat","N/A",$29.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS, CARDINAL, ROADHOUSE, BELMONT, MONTREAL, JACK ASTOR'S or SUNRISE BURGERS & More!","N/A",$10.99,$13.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Marinated Raw Shrimp Skewers","N/A",$1.25,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Cosmic Crisp Apples","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Sparkling Drinks","N/A",$8.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Drinks or Lemonades","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COCA-COLA Mini Cans","N/A",$5.29,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Original Blackcurrant Beverage","N/A",$12.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS Cozy Coop Large White Eggs","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Ice Cream or Non-Dairy Frozen Dessert","N/A",$11.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Ice Cream","N/A",$4.94,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Goldfish Crackers","N/A",$9.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Bagels","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Organic Peanut Butter","N/A",$7.29,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","S'mores Kits","N/A",$8.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","BAXTER, SCOTSBURN, FARMERS or NORTHUMBERLAND Sour Cream","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","COMPLIMENTS German, Hungarian or Peppercorn Salami","N/A",$3.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Topped Hummus, Regular Hummus or Dips","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","CHAPMAN'S Li'l Lolly","N/A",$5.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Large Navel Oranges","N/A",$1.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
+8052438,"Sobeys","N/A","Organic Baby Pouches","N/A",$11.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","VH sauce","N/A",$2.97,N/A,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Baxter Chocolate Milk","N/A",$2.27,$3.18,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Humpty Dumpty snack","N/A",$2.88,$3.97,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
@@ -628,156 +778,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8059512,"Walmart","N/A","Tide Simply laundry detergent","N/A",$7.97,$11.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
 8059512,"Walmart","N/A","Cool Runnings plantain chips","N/A",$3.27,$4.17,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
 8059512,"Walmart","N/A","Wheeled duffle bag","N/A",$29.88,$34.88,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Prepared Fresh Daily In-Store Fruit or Vegetable Trays","N/A",$25.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","NANDO'S Wing Sauce","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Pads or Liners","N/A",$14.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Peanut Punch","N/A",$1.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","LANGERS Tropical Juice Blends","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Mach3 or Fusion Razors or Blades or Satin Care Shave Care","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Sorbet","N/A",$6.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","KNORR Boullion Paste","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Prepared Fresh Daily Roasters or BBQ Grillers","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS Peanuts","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Cheesecakes","N/A",$12.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Donuts Mix","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS Value Size Candy","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","STERLING SILVER Fresh Boneless Top Sirloin Premium Oven Roast or Family Size Grilling Steaks","N/A",$18.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS S'mores Kits","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Pancake Mix","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","GATORADE","N/A",$6.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","BOURSIN","N/A",$6.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","14"" Take & Bake Pizza","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Pork Back Ribs","N/A",$14.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Pickle Spears","N/A",$5.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Fresh Boneless Skinless Chicken Breast or Thigh Kabobs with Vegetables","N/A",$9.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Sausages","N/A",$7.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","SAN DANIELE Prosciutto","N/A",$6.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Drinkable Yogurt","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Pocky Bag","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","BEST BUY Wafers","N/A",$1.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS Cooked or Raw Shrimp","N/A",$8.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","LAY'S Potato Chips","N/A",$2.75,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Sea Salt Flakes","N/A",$9.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","HEALTHY CHOICE Power Bowls","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Cookie Dough","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Acne Products","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Family Size Crackers","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","CRACKER BARREL Cheese Slices Snacks","N/A",$4.77,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Hydration Drinks","N/A",$2.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS Chocolate Chips","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Chicken Sausage","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","MR. NOODLES Instant Noodles","N/A",$0.69,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Cheese Sticks","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Iced Tea","N/A",$7.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS NATURALLY SIMPLE Gluten Free Almond Flour","N/A",$9.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Ridgies Chili Lime Szechuan","N/A",$8.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Cakes or Scones","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","RITTER SPORT Chocolate Bars","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS Evaporated Milk","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Maya Mangoes","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Lactose Free Ice Cream","N/A",$4.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","PEACE TEA","N/A",$7.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS Sliced Meats","N/A",$3.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Canned Coffee","N/A",$1.19,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Hot Dog or Burger Buns","N/A",$4.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Signature Buns","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Dragon Fruit","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Garlic","N/A",$1.29,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Dracaena in Pineapple Ceramic","N/A",$12.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","SO DELICIOUS","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Papaya","N/A",$1.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Roast & Ground Coffee","N/A",$10.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Sodas","N/A",$1.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS Canola Oil","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","FOCO Coconut Water","N/A",$2.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Plant-Based Yogurt","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Tortilla Chips","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","TAKIS","N/A",$3.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","French Fries Seasoning","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Kale","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","RED BULL Energy Drinks","N/A",$9.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS Exceptional Chocolate Chip Cookies","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","FRENCH'S Mustard","N/A",$2.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS Apple, Apple Crumble or Pumpkin Pie","N/A",$6.99,$7.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS Aerosol Whip Cream","N/A",$6.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Crispers or Ritz Chips Family Size","N/A",$4.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","KICKING HORSE Ground Coffee","N/A",$13.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Characters","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS Cheese Slices","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS Breaded Chicken value size","N/A",$15.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Deodorant","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS Cocktail Shrimp in Sauce","N/A",$8.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Cupcakes","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Ice Cream","N/A",$4.94,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Prepared Fresh Daily Taco or Guacamole Dip or Pineapple Salsa","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Coconut Milk","N/A",$2.29,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Hot Sauce","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","NATURE VALLEY Mid-Size Granola Bars","N/A",$8.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Cosmic Crisp Apples","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","XXL Roasted Sunflower Seeds","N/A",$4.29,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS Rubs 275 mL or BBQ Sauce 375-425 mL","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Plantain","N/A",$1.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","EARTH'S OWN Barista","N/A",$10.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Gourmet Beans","N/A",$2.59,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Handheld Savoury Pastries","N/A",$2.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Mini Croissants","N/A",$2.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Broccoli","N/A",$1.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Multi-Seed Crackers","N/A",$5.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Raincoast Crisps","N/A",$8.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Ropes","N/A",$2.79,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Assorted Potted Mums","N/A",$11.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Alcohol-Free Wine","N/A",$11.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS New Brunswick Cooked Wild Lobster Claws or Newfoundland Cooked Wild Snow Crab Clusters","N/A",$22.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","La Grille Seasonings","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Coffee K-Cup® Pods","N/A",$27.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Cookies","N/A",$3.79,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","XL Cellos","N/A",$9.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Salt Fish Bits","N/A",$7.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Energy Drink","N/A",$6.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS Smoked Sausages","N/A",$13.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Product of Canada TRUE NORTH Fresh Atlantic Salmon Fillets","N/A",$35.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Juice","N/A",$5.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Pasta","N/A",$1.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","CHRISTIE Dad's or Peek Freans Cookies","N/A",$4.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Super Moist Cake Mix","N/A",$3.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS Ice Cream Cones","N/A",$2.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Jumbo Cereal","N/A",$8.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Soft Drinks","N/A",$4.50,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Clamato","N/A",$4.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Pool Party Bouquet","N/A",$24.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Fresh Beef Kebabs with Vegetables","N/A",$17.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","RED BARON Pizza","N/A",$3.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Ultra Strength Paper Towel","N/A",$18.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","CLEARLY CANADIAN Sparkling Water","N/A",$4.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Ice Cream Toppings","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS ORGANIC Button Mushrooms","N/A",$3.44,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS Frozen Whipped Topping","N/A",$3.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Live Market Lobsters","N/A",$14.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Chocolate Chip or Monster Mini Cookies","N/A",$5.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","KASHI Organic Fruit Bars","N/A",$6.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Cheese or Spinach Swirls","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Pods","N/A",$34.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Coconut Water with Pulp","N/A",$1.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Oven Roasted Turkey or Chicken","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Barrel Sauerkraut","N/A",$4.79,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Family Size Cereal","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","SUMMER FRESH Salads","N/A",$9.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Flour","N/A",$6.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Plantain Chips","N/A",$2.29,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Fresh Pork Tenderloin Kabobs with Vegetables, Fresh Boneless Skinless Chicken Breast or Thigh Kabobs with Vegetables or Fresh Beef Kabobs with Vegetables","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","JACK LINK'S or GOLDEN ISLAND Jerky","N/A",$6.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Sparkling Water","N/A",$6.49,$6.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Mini Seedless Cucumbers","N/A",$2.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Squeak'rs Cheese Curds","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Ice Cream","N/A",$4.94,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS Flavoured Tuna","N/A",$3.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Potato Style Buns","N/A",$5.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Protein Bars","N/A",$7.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Frozen Entrees, Egg Rolls, Spring Rolls or Dumplings","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","COMPLIMENTS Ground Chicken or Turkey","N/A",$6.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Organic Extra Firm Tofu","N/A",$3.69,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Fruit or Nut Bar","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
-8052438,"Sobeys","N/A","Bathroom Tissue","N/A",$6.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T22:59:59-04:00,"N/A",B3K0H6
 8055480,"No Frills","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
 8055480,"No Frills","N/A","NO NAME® CANNED TOMATOES, 796 ML","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
 8055480,"No Frills","N/A","CAVENDISH FARMS FRIES, 400-750 g","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
