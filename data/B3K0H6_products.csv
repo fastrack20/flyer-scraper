@@ -299,6 +299,7 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8033575,"Walmart","N/A","Colgate Max Fresh","N/A",$5.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","CeraVe Acne Cleanser","N/A",$23.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Sterilite 2-piece sink set","N/A",$9.97,$14.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8055516,"Giant Tiger","N/A","Humpty Dumpty snack","N/A",$2.88,$3.97,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Watson Ridge frozen buttermilk chicken breast pieces","N/A",$9.97,$12.97,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Wonder bread","N/A",$2.50,N/A,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Chapman's Collection ice cream bars","N/A",$3.97,$6.23,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
@@ -327,7 +328,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8055516,"Giant Tiger","N/A","Mini cucumbers","N/A",$1.44,N/A,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","VH sauce","N/A",$2.97,N/A,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Kraft Rancher's Choice","N/A",$2.43,$3.23,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
-8055516,"Giant Tiger","N/A","Humpty Dumpty snack","N/A",$2.88,$3.97,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8061817,"Wholesale Club and Club Entrepôt","N/A","KETCHUP, 4 L","N/A",$12.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
 8061817,"Wholesale Club and Club Entrepôt","N/A","STRAIGHT CUT FRIES, 2.27-13.62 KG","N/A",$33.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
 8061817,"Wholesale Club and Club Entrepôt","N/A","PICKLED SLICED JALAPEÑOS, 3.78 L","N/A",$10.99,$11.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
