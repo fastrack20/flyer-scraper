@@ -2,7 +2,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8055516,"Giant Tiger","N/A","Cavendish Farms patties","N/A",$4.98,$6.98,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Vachon snack cakes","N/A",$2.67,$3.50,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","VH sauce","N/A",$2.97,N/A,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
-8055516,"Giant Tiger","N/A","Gain laundry detergent","N/A",$13.99,$19.97,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Watson Ridge frozen buttermilk chicken breast pieces","N/A",$9.97,$12.97,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Giant Value cheese bar","N/A",$4.87,N/A,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Pepsi soft drinks","N/A",$7.47,$8.27,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
@@ -11,198 +10,24 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8055516,"Giant Tiger","N/A","Old Dutch BBQ","N/A",$2.88,$3.97,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Heinz Ketchup","N/A",$4.97,$5.76,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Kraft Miracle Whip Spread 890 ml","N/A",$4.97,$5.76,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
-8055516,"Giant Tiger","N/A","3 pack rainbow peppers","N/A",$4.48,N/A,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Wonder bread","N/A",$2.50,N/A,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Diana Sauce","N/A",$2.43,$3.46,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Giant Value Maple Bourbon Flavour Beef Burger","N/A",$12.00,N/A,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","VH Sauce","N/A",$2.97,N/A,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Humpty Dumpty snack","N/A",$2.88,$3.97,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
-8055516,"Giant Tiger","N/A","Scotsburn Chocolate Milk","N/A",$2.27,$3.18,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Baxter Chocolate Milk","N/A",$2.27,$3.18,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","1 lb tomatoes on the vine","N/A",$1.44,N/A,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Chapman's Collection ice cream bars","N/A",$3.97,$6.23,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
-8055516,"Giant Tiger","N/A","Iceberg lettuce","N/A",$1.88,N/A,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","SCHNEIDERS Juicy Jumbos Wieners","N/A",$3.99,$9.47,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Vachon snack cakes","N/A",$2.67,$3.50,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Kraft Rancher's Choice","N/A",$2.43,$3.23,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Mini cucumbers","N/A",$1.44,N/A,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Schneiders sausages or Juicy Jumbos wieners","N/A",$3.99,$6.97,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
+8055516,"Giant Tiger","N/A","Scotsburn Chocolate Milk","N/A",$2.27,$3.18,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
+8055516,"Giant Tiger","N/A","Iceberg lettuce","N/A",$1.88,N/A,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
+8055516,"Giant Tiger","N/A","Gain laundry detergent","N/A",$13.99,$19.97,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8055516,"Giant Tiger","N/A","Our Promise halal grass-fed lean ground beef","N/A",$10.88,$15.50,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","Cavendish Farms frozen crinkle cut fries","N/A",$2.69,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","Post cereal","N/A",$2.97,$4.44,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","3 lb seedless oranges","N/A",$3.97,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","HoneyBar bars","N/A",$3.77,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","Hamburger Helper","N/A",$1.98,$2.16,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","Dawn dish soap","N/A",$4.97,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","Sun-Maid mini raisins","N/A",$3.77,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","Dr. Oetker frozen pizza","N/A",$3.47,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","Country Harvest bread","N/A",$2.77,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","227 g whole white mushrooms","N/A",$1.97,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","Coca-Cola soft drinks","N/A",$3.99,$5.88,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","Primo pasta sauce","N/A",$1.67,$2.37,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","Wonder Ballpark Classics Hamburger Buns","N/A",$2.77,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","Giant Value salted butter","N/A",$4.88,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","3 pack romaine lettuce","N/A",$2.44,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","2 lb lemons","N/A",$3.97,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","Lesters Montréal smoked meat or shaved steak","N/A",$12.97,$14.97,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","Post cereal","N/A",$2.97,$4.44,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","Lesters Montréal smoked meat or shaved steak","N/A",$12.97,$14.97,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","Aqua Star Frozen wild Pacific Pink Salmon","N/A",$5.97,$8.97,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","Dare Breaktime cookies","N/A",$0.99,$1.50,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","340 g mini carrots","N/A",$0.97,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","E.O. Smith Triple Fruits spread","N/A",$2.97,$4.99,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","Cascade dishwasher tabs","N/A",$4.97,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","Allen's juice","N/A",$1.47,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","MiO iced tea drink mix","N/A",$8.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Canon PIXMA TS3720 wireless all-in-one printer","N/A",$47.98,$89.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","onn. 30W I-port USB-C charger with 3' Type-C cable","N/A",$27.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","JBuds Wireless mouse","N/A",$29.98,$39.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Jamieson vitamin C chewables","N/A",$6.67,$8.77,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Nestlé Drumstick or Real Dairy confectioneries or tubs or Del Monte novelties","N/A",$3.97,$5.48,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","HP DeskJet 2942 all-in-one printer","N/A",$49.98,$69.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Heinz mayo-style Sauce","N/A",$3.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","GO Wireless Keyboard","N/A",$19.98,$29.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Dell 14"" productivity laptop","N/A",$1098.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","16"" OmniBook 5 laptop","N/A",$899.98,$999.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Coppertone sport SPF 50 sunscreen spray or lotion","N/A",$16.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Heinz Pasta","N/A",$1.27,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","27"" FHD IPS monitor","N/A",$129.98,$179.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","JLab JBuddies Studio 2 wired headphones","N/A",$14.98,$20.32,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Tomatoes on the vine or Roma tomatoes","N/A",$2.42,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Jamieson iron gummies 90s","N/A",$16.17,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Dell 16"" Entertainment laptop","N/A",$898.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Mio Iced Tea Drink Mix","N/A",$8.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Mio Water Enhancer","N/A",$2.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Kraft Salad Dressing","N/A",$2.44,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","onn. wireless mouse and keyboard combo","N/A",$19.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","HP Envy 6152E all-in-one printer","N/A",$79.98,$164.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","TUCCI Italy CityRider 17.7"" backpack","N/A",$60.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","onn. 24"" Full HD monitor","N/A",$109.98,$149.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Selected stationery","N/A",$3.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Hot Wheels Barbie Jammer electric scooter","N/A",$148.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Sterilite wheeled under-bed tote","N/A",$26.97,$29.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Method Men body wash","N/A",$9.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Pen+Gear pencil cases","N/A",$7.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","onn. 8"" Kids' tablet","N/A",$149.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Coppertone Kids SPF 50 sunscreen lotion or spray","N/A",$16.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Nivea body lotion","N/A",$7.48,$8.37,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Rascals premium superpack diapers","N/A",$21.88,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Harmony Transit deluxe backless booster car seat with UAS","N/A",$33.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Toastmaster 2-Slice toaster","N/A",$14.88,$19.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Parent's Choice organic baby food purée","N/A",$1.17,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Coca-Cola Pop","N/A",$2.87,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Crest Scope Outlast mouthwash 1L","N/A",$5.97,$6.96,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Nivea body lotion","N/A",$7.48,$9.48,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Aussie shampoo","N/A",$8.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Spider-Man tee","N/A",$13.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","George Leggings","N/A",$5.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Neutrogena all-in-one duo cleansing wipes","N/A",$17.97,$20.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Swanson fettuccini Alfredo or cheesy rice with broccoli & chicken frozen entrees","N/A",$4.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Sterilite 3-Drawer medium cart","N/A",$21.97,$25.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Great Value sandwich bags","N/A",$2.74,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Sun Bum sunscreen lotion","N/A",$19.88,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Coca-Cola Zero Pop","N/A",$2.87,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Outdoor Folding Muskoka Chair","N/A",$149.97,$268.21,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Bottle Sterilizer and Dryer for Baby Bottles","N/A",$64.99,$89.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Dove Men+Care 2-in-1 shampoo","N/A",$11.76,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","L'Oréal Paris Hair Expertise shampoo","N/A",$5.98,$6.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Sterilite 3-drawer wide cart","N/A",$39.97,$47.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Nestlé Drumstick or Real Dairy confectioneries or tubs or Del Monte novelties","N/A",$3.97,$5.48,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","KPop Demon Hunters pencil cases, notebooks or journals","N/A",$7.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","L'Oréal Paris Excellence hair colour","N/A",$13.96,$15.96,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","wide-leg sweatpants","N/A",$14.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Lysol wipes 75s - 84s","N/A",$5.47,$6.47,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Aveeno Baby daily wash and shampoo or cream","N/A",$12.47,$14.44,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","4-Piece backpack set","N/A",$16.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Pogo Original","N/A",$12.97,$17.38,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Parent's Choice Gentle+ iron-fortified infant formula","N/A",$26.94,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Crayola 64ct Crayons or Crayola 20ct washable Super Tips markers","N/A",$2.00,$4.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","TAL 24-oz. stainless steel 2-in-l straw and chug water bottle","N/A",$18.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Jetstream 3-Piece backpack set","N/A",$24.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Pencil case","N/A",$6.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Nivea Luminou5630 Skin Glow face serum or refiner","N/A",$19.97,$29.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Selected padlocks","N/A",$9.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Equate high protein meal replacement shakes","N/A",$10.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Jetstream backpacks","N/A",$19.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Dual-compartment lunch bag","N/A",$16.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Athena Club body wash","N/A",$11.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Nivea Luminous 630 Dark Spot Solution serum","N/A",$37.77,$47.77,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Arctic Zone Uptown tote lunch bag","N/A",$14.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Parent's Choice training pants","N/A",$24.94,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Pen+Gear binders","N/A",$4.97,$5.47,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Swanson lasagna or sweet & sour chicken frozen entrees","N/A",$4.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Sterilite rectangular open laundry hamper","N/A",$9.97,$12.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Zevia Orange Creamsicle soda","N/A",$6.48,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Jetstream backpacks","N/A",$19.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","OREO Mini Snak Paks","N/A",$2.48,$2.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Pure Balance chicken or duck tenders dog treats","N/A",$11.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Disney Marvel Spider-Man Harness booster car seat","N/A",$299.00,$349.00,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Black & White paper towels","N/A",$17.93,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Your Fresh Market™ sliced loaf cakes","N/A",$5.16,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Natrel chocolate milk","N/A",$6.46,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Native body wash","N/A",$9.98,$12.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","OxiClean stain remover powder","N/A",$10.97,$12.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Steve Madden backpack","N/A",$34.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Nutella biscuits","N/A",$6.67,$7.47,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Expo dry erase markers 8-pack","N/A",$11.48,$15.48,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Downy Unstopables scent booster","N/A",$24.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Crayola Ultra-Clean washable broad line markers","N/A",$5.97,$7.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Jetstream 3-Piece backpack set","N/A",$24.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Steve Madden backpack","N/A",$34.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Lady Speed Stick antiperspirant","N/A",$5.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","OREO Original","N/A",$2.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Healthy Choice Simply Steamers frozen entrees","N/A",$4.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Hello Kitty creativity case","N/A",$12.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Premier Protein Al'mazing vanilla or coffee non-dairy shakes","N/A",$12.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Wheeled duffle bag","N/A",$29.88,$34.88,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","80-page notebook","N/A",$0.48,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Jamieson vitamin C chewables","N/A",$6.67,$8.77,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Jamieson Vitamin D","N/A",$6.67,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","JLAB GO Wireless Bluetooth mouse","N/A",$12.98,$19.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","5th Wheel WLB17 adults' 26"" electric bike","N/A",$519.99,$999.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Rimmel Multi Tasker on-the-go blush stick","N/A",$11.96,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Selected Not Your Mother's hair styling products","N/A",$10.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Parent's Choice wipes","N/A",$19.94,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Snack Pack puddings","N/A",$1.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Aussie shampoo or conditioner","N/A",$8.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Swanson fettuccini Alfredo or cheesy rice with broccoli & chicken frozen entrees","N/A",$4.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Aspire Lite 17.3"" HD IPS laptop","N/A",$459.98,$549.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Granitestone Blue 20-Piece Non-Stick Cookware Set","N/A",$145.99,$249.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Vega protein Made Simple protein powder","N/A",$19.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Lysol wipes","N/A",$5.47,$6.47,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Hellmann's mayonnaise type dressing 325 mL - 340 mL","N/A",$3.77,$5.47,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Nature's Path Love Crunch organic protein chocolate and almond butter or strawberry cheesecake granola","N/A",$5.98,$7.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Rimmel Multi Tasker on-the-go blush stick","N/A",$11.96,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Kendamil ready-to-feed infant formula","N/A",$29.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Zevia Strawberry Lemon Burst soda","N/A",$6.48,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Baby Gourmet organic purée","N/A",$2.27,$2.77,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Nutella B-ready bars","N/A",$10.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Annabelle kohl eyeliners","N/A",$5.96,$6.96,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Diaper Genie Signature pail and Easy Roll refill","N/A",$62.97,$74.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Phoenix adults' 27.5"" electric bike","N/A",$698.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Pen+Gear report cover","N/A",$0.22,$0.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Men's Joe Boxer underwear","N/A",$21.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Sharpie bullet-tip creative markers 5-pack.","N/A",$10.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Finish Quantum dishwasher tabs","N/A",$19.97,$23.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","BIC Mechanical pencils","N/A",$7.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Cadbury Caramilk Snack-Size bars","N/A",$3.18,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Grace coconut water","N/A",$3.27,$4.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Reese's Minis Peanut Butter Cups candy","N/A",$4.48,$5.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Paper Mate Flair! felt-tip pens","N/A",$15.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Baby Gourmet organic puree","N/A",$2.27,$2.77,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Nivea body lotion","N/A",$7.48,$9.48,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Hot Wheels electric scooter","N/A",$148.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Hellmann's mayonnaise type dressing 325 mL - 340 mL","N/A",$3.77,$5.47,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Uni Posca PC-5M water-based paint markers","N/A",$23.44,$27.44,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Coppertone sport SPF 50 sunscreen spray or lotion","N/A",$16.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Our Finest macaroni & cheese","N/A",$2.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Halo: Campaign Evolved for PlayStation 5","N/A",$69.96,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Phoenix e-step thru bike","N/A",$698.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Nature's Path Love Crunch organic protein chocolate and almond butter or strawberry cheesecake granola","N/A",$5.98,$7.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Christie Chips Ahoy! Mini Cookies Snak Paks","N/A",$2.48,$2.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Nature's Path EnviroKidz Organic Koala Crisp or Honey'D corn flakes","N/A",$9.42,$10.47,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Lysol all-purpose cleaner","N/A",$5.47,$6.47,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8059512,"Walmart","N/A","Colgate MaxFresh 3 x 150 mL or Total 3 x 120 mL toothpaste","N/A",$7.97,$9.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055516,"Giant Tiger","N/A","3 pack rainbow peppers","N/A",$4.48,N/A,"N/A",each,"N/A",2026-07-29T00:00:00-04:00,2026-08-04T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","George toddlers' long-sleeved tee or legging","N/A",$4.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Keurig® K-Express Essentials® single-serve coffee maker","N/A",$74.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
@@ -340,19 +165,194 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8033575,"Walmart","N/A","Mainstays 8-pack washcloths","N/A",$9.92,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","No Boundaries women's sneakers","N/A",$29.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Rimmel Multi Tasker concealer","N/A",$9.97,$13.77,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","GTRacing gaming chair","N/A",$139.97,$159.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Mainstays RGB colour-change floor lamp","N/A",$49.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Dirt Devil 7-in-1 handheld steam cleaner or Scorpion Quick Flip corded hand vacuum","N/A",$39.98,$49.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Garnier vitamin C serum","N/A",$17.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Buckley's Soothing Mixture syrup","N/A",$15.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","No Boundaries ball cap","N/A",$12.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","AND1 boys' basketball shoes","N/A",$24.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","George dress","N/A",$16.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Hello Kitty licensed backpack","N/A",$24.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Mickey Mouse and Friends bomber jacket","N/A",$27.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","George hooded quilted jacket","N/A",$35.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","School Yard Vibes 3-piece backpack set","N/A",$29.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","George dress","N/A",$16.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Gourmia GPM1270 all-in-one pizza oven, toaster and air fryer","N/A",$224.00,$320.00,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","No Boundaries picot trimmed tee","N/A",$10.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Spider-Man short-sleeved tee","N/A",$10.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Suave antiperspirant","N/A",$3.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","T-fal Essential 15-piece cookware set","N/A",$69.97,$99.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Dove Men+Care Dryness & Itch Relief shampoo and conditioner","N/A",$8.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Mainstays kitchen gadgets","N/A",$2.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Athletic Works kids' sneakers","N/A",$19.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Ninja single-serve coffee maker","N/A",$99.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","George zip-up hoodie","N/A",$18.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","No Boundaries oversized hoodie","N/A",$24.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","TRESemmé shampoo","N/A",$7.27,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Champion backpack","N/A",$34.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","JBuds Wireless mouse","N/A",$29.98,$39.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Nestlé Drumstick or Real Dairy confectioneries or tubs or Del Monte novelties","N/A",$3.97,$5.48,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","OREO Original","N/A",$2.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Vega protein Made Simple protein powder","N/A",$19.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Pen+Gear report cover","N/A",$0.22,$0.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Expo dry erase markers 8-pack","N/A",$11.48,$15.48,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Dairy Milk Mini chocolate bars","N/A",$5.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Diana Sauce","N/A",$3.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Corn","N/A",$0.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Great Value soda","N/A",$1.23,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Nestlé Drumstick or Real Dairy confectioneries or tubs or Del Monte novelties","N/A",$3.97,$5.48,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Great Value mustard","N/A",$1.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Lay's chips","N/A",$2.97,$3.47,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Mina halal fresh split chicken wings","N/A",$6.43,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Heys backpack","N/A",$16.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Blueberries","N/A",$2.44,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Pen+Gear report cover","N/A",$0.22,$0.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Great Value hot dogs","N/A",$3.94,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Great Value hot dog or hamburger buns","N/A",$1.88,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Bulk beefsteak tomatoes","N/A",$1.92,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Great Value processed cheese slices","N/A",$2.97,$3.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Iceberg lettuce","N/A",$1.94,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Great Value chicken burgers","N/A",$9.96,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Great Value processed cheese slices","N/A",$2.97,$3.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","French's ketchup","N/A",$2.97,$4.27,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Lay's chips","N/A",$2.97,$3.47,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Great Value beef or chicken burgers or fully cooked burgers","N/A",$9.96,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Great Value hot dog or hamburger buns","N/A",$1.88,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Schneiders Original Recipe Wieners","N/A",$3.97,$7.27,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Great Value butter","N/A",$4.97,$5.96,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Purex laundry detergent","N/A",$9.27,$15.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Nutella hazelnut or peanut","N/A",$8.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Christie Chips Ahoy! Mini Snak Paks","N/A",$2.48,$2.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Great Value ice cream waffle cones","N/A",$3.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Sharpie Toy Story 5 permanent markers","N/A",$3.48,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Patty King Jamaican beef patties","N/A",$9.42,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","OREO Original or Bubble Tea cookies","N/A",$2.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Nature's Path Organic Heritage flakes eco pack cereal","N/A",$9.42,$10.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Hellmann's real mayonnaise 710-890 mL","N/A",$5.77,$6.47,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Hellmann's mayonnaise type dressing 325 mL - 340 mL","N/A",$3.77,$5.47,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Nature's Path Love Crunch organic protein chocolate and almond butter or strawberry cheesecake granola","N/A",$5.98,$7.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Yop strawberry banana","N/A",$5.76,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","EcoTank ET-2803 wireless printer","N/A",$199.98,$329.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","24"" Rock Creek mountain bike","N/A",$148.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","BIC Mechanical pencils","N/A",$7.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Nature's Path EnviroKidz Organic Koala Crisp or Honey'D corn flakes","N/A",$9.42,$10.47,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Furlani garlic toast","N/A",$4.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Snack Pack puddings","N/A",$1.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Granitestone Blue 20-Piece Non-Stick Cookware Set","N/A",$145.99,$249.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Canon imageCLASS MF3010 laser printer","N/A",$99.98,$179.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","15.6"" Aspire Lite FHD IPS laptop","N/A",$399.98,$479.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","JLAB GO Wireless Bluetooth mouse","N/A",$12.98,$19.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Scosche 20W USB-C wall charger","N/A",$24.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Your Fresh Market™ mini carrots","N/A",$2.44,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","TUCCI Italy SportSurge 17.3"" laptop backpack","N/A",$61.99,$70.00,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Halo: Campaign Evolved for PlayStation 5","N/A",$69.96,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Pine-Sol cleaner","N/A",$11.97,$15.57,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","27"" FHD IPS monitor","N/A",$129.98,$179.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Coppertone Kids SPF 50 sunscreen lotion or spray","N/A",$16.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Cracker Barrel cheese block 400 g","N/A",$5.97,$6.68,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Nerds Gummy Clusters","N/A",$3.18,$3.58,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Kendamil goat milk infant formula powder","N/A",$59.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Tylenol Muscle & Body or Arthritis pain relief","N/A",$20.67,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","onn 40""1080p FHD Roku Smart TV","N/A",$218.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Lysol toilet bowl cleaner 710 mL","N/A",$3.97,$4.77,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","21.5"" FHD monitor","N/A",$89.98,$109.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Listerine mouthwash","N/A",$4.98,$7.78,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Jamieson vitamins","N/A",$13.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Skross backpack","N/A",$34.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Royale facial tissue","N/A",$19.97,$24.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Cracker Barrel cheese block 400 g or shreds 320 g","N/A",$5.97,$6.68,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Equate hand soap refill","N/A",$3.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Logitech wireless mouse","N/A",$19.98,$29.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Smucker's Sundae Syrup","N/A",$4.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","AirPods 4","N/A",$144.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Kids' or toddlers' athletic shoes","N/A",$29.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Sterilite 3-Drawer medium cart","N/A",$21.97,$25.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Aussie shampoo","N/A",$8.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Sterilite wheeled under-bed tote","N/A",$26.97,$29.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Dual-compartment lunch bag","N/A",$16.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","OxiClean stain remover powder","N/A",$10.97,$12.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Maple Leaf raised without antibiotics fresh lean ground pork","N/A",$4.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Swanson lasagna or sweet & sour chicken frozen entrees","N/A",$4.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Lysol wipes 75s - 84s","N/A",$5.47,$6.47,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","L'Oréal Paris Excellence hair colour","N/A",$13.96,$15.96,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Steve Madden backpack","N/A",$34.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","George Sweatshirt","N/A",$14.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Great Value frozen meat, seafood or appetizers value packs","N/A",$9.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Nivea Luminous 630 Dark Spot Solution serum","N/A",$37.77,$47.77,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","SheaMoisture styling products or treatments","N/A",$14.42,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Jamieson vitamin B12 80s","N/A",$9.67,$10.87,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","5TH WHEEL K9 Electric Bike for Kids, 150W","N/A",$175.99,$399.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Smart Watch for Android & iPhone","N/A",$28.72,$299.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","GE 14,000 BTU Smart Portable Air Conditioner","N/A",$399.00,$649.00,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","10"" Android Tablet with Keyboard","N/A",$179.99,$199.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Kellogg's Rice Krispies squares or Pop-Tarts","N/A",$7.94,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Jamieson liquid iron 200 mL","N/A",$16.17,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Jamieson magnesium bisglycinate 70s","N/A",$13.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Oîkos Greek yogurt 12-pack","N/A",$9.47,$11.47,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Watson Ridge chicken nuggets","N/A",$5.97,$6.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Corn","N/A",$0.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Liberté Greek yogurt","N/A",$2.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Jamieson calcium, magnesium and vitamin D3 200s","N/A",$9.67,$10.87,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Jamieson berberine 70s","N/A",$17.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","64""x21"" Arched Full-Length Mirror","N/A",$52.99,$92.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Jamieson gentle iron 90s","N/A",$9.67,$11.77,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Jamieson magnesium","N/A",$17.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Oikos Pro drinkable yogurt","N/A",$3.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Jamieson vitamin C chewables","N/A",$6.67,$8.77,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Oikos Pro drinkable yogurt","N/A",$3.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Outdoor Folding Muskoka Chair","N/A",$149.97,$268.21,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Outsunny 10'x10' Hardtop Patio Gazebo","N/A",$549.99,$1279.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","GO Wireless Keyboard","N/A",$19.98,$29.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Heinz mayo-style Sauce","N/A",$3.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","L'Oréal Paris Excellence hair colour","N/A",$13.96,$15.96,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","onn. 30W I-port USB-C charger with 3' Type-C cable","N/A",$27.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Purina ONE wet dog food variety pack","N/A",$49.48,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","HP DeskJet 2942 all-in-one printer","N/A",$49.98,$69.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Huffy Capitol cruiser bike","N/A",$198.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Tide Simply All-in-One liquid laundry detergent","N/A",$7.97,$11.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Hello Hobby stretched canvases","N/A",$16.97,$18.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","32"" HD QLED Roku Smart TV","N/A",$158.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Great Value juice","N/A",$2.96,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Heys licensed backpack","N/A",$16.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Toastmaster electric single burner","N/A",$14.88,$19.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Royale 2-ply bathroom tissue","N/A",$7.97,$9.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Pen+Gear pencil cases","N/A",$7.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Chromebook 311 11.6"" laptop","N/A",$269.98,$369.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Equate toothbrushes 8-pack","N/A",$5.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Mechanical pencils","N/A",$7.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Pedialyte electrolyte oral rehydration solution","N/A",$8.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Cadbury Caramilk Minis","N/A",$5.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","3-Drawer medium cart","N/A",$21.97,$25.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Enfamil A+ NeuroPro Gentlease ready-to-feed formula","N/A",$87.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Black & White bathroom tissue or paper towel","N/A",$4.94,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Licensed lunch bag","N/A",$11.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","KISS imPRESS nails","N/A",$9.97,$12.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","3M Command value packs","N/A",$11.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Fleece hoodie","N/A",$12.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Skross backpack","N/A",$34.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Lysol all-purpose cleaning pours 1.2 L","N/A",$3.97,$4.77,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","ACER Aspire Lite 15.6"" FHD laptop","N/A",$299.98,$349.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Nivea face toner 200 mL","N/A",$7.26,$9.26,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Cool Gear","N/A",$6.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","RITZ family size crackers","N/A",$3.98,$4.48,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Marc Anthony shampoo, conditioner","N/A",$11.94,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Phoenix adults' 27.5"" electric bike","N/A",$698.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Striped beach towel","N/A",$6.88,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Marc Anthony shampoo, conditioner or styling products or Cake styling products","N/A",$11.94,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8059512,"Walmart","N/A","Math Roller Addition stamps","N/A",$12.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","Cavendish Farms frozen crinkle cut fries","N/A",$2.69,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","Post cereal","N/A",$2.97,$4.44,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","3 lb seedless oranges","N/A",$3.97,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","HoneyBar bars","N/A",$3.77,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","Hamburger Helper","N/A",$1.98,$2.16,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","Dawn dish soap","N/A",$4.97,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","Sun-Maid mini raisins","N/A",$3.77,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","Dr. Oetker frozen pizza","N/A",$3.47,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","Country Harvest bread","N/A",$2.77,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","227 g whole white mushrooms","N/A",$1.97,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","Coca-Cola soft drinks","N/A",$3.99,$5.88,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","Primo pasta sauce","N/A",$1.67,$2.37,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","Wonder Ballpark Classics Hamburger Buns","N/A",$2.77,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","Giant Value salted butter","N/A",$4.88,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","3 pack romaine lettuce","N/A",$2.44,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","2 lb lemons","N/A",$3.97,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","Lesters Montréal smoked meat or shaved steak","N/A",$12.97,$14.97,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","Post cereal","N/A",$2.97,$4.44,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","Lesters Montréal smoked meat or shaved steak","N/A",$12.97,$14.97,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","Aqua Star Frozen wild Pacific Pink Salmon","N/A",$5.97,$8.97,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","Dare Breaktime cookies","N/A",$0.99,$1.50,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","340 g mini carrots","N/A",$0.97,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","E.O. Smith Triple Fruits spread","N/A",$2.97,$4.99,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","Cascade dishwasher tabs","N/A",$4.97,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","Allen's juice","N/A",$1.47,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
 8055480,"No Frills","N/A","CHUBBY SODA, 250 ML","N/A",$0.40,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
 8055480,"No Frills","N/A","NO NAME® WHOLE KERNEL or CREAM-STYLE CORN, 341/398 mL","N/A",$1.25,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
 8055480,"No Frills","N/A","SMALL MIXED BOUQUET","N/A",$10.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
@@ -397,41 +397,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8055480,"No Frills","N/A","TWININGS SUPER BLENDS TEA, 18'S","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
 8055480,"No Frills","N/A","BIBIGO MANDU or MINI WONTONS, 680 g","N/A",$7.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
 8055480,"No Frills","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","LAY'S POTATO CHIPS, 177-235 g","N/A",$2.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","MAGGI MASALA NOODLES, 70 g","N/A",$0.39,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","PC® SUPER SOFT BATHROOM TISSUE, 30 = 100 rolls","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","STARBUCKS BY NESPRESSO, 10's","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","GROUND CHICKEN, 454 g","N/A",$3.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","LAY'S POTATO CHIPS, 177-235 g","N/A",$2.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","PC® NUTRITION FIRST® DOG FOOD, 7 kg","N/A",$30.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","CHAPMAN'S PREMIUM ICE CREAM 2 L or SUPER SANDWICH, CONES or NOVELTIES 8-20's","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","SEAQUEST® RAW or COOKED SHRIMP 36-55 per lb 300 g, BAY SCALLOPS 400 g or SHRIMP RING 277 g","N/A",$5.50,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","RESER'S SALADS 425/454 g or ZIGGY'S® FRESH PASTA 350/360 g","N/A",$2.50,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","GRACE ISLAND SODA, 355 mL or PLANTAIN CHIPS, 85 g","N/A",$0.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","ARMSTRONG or PC® SHREDDED CHEESE 250-320 g or ARMSTRONG CHEESE 400 g","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","PC® MAPLE SYRUP, 500 mL","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","PC® DIPS, 200/227 g or NAAN DIPPERS, 200 g","N/A",$3.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","CHERRIES, BLUEBERRIES, PINT, STRAWBERRIES, 1 LB CLAMSHELL","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","DAWN DISHWASHING LIQUID, 366-502 mL","N/A",$2.50,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","CRACKER BARREL CHEESE SHREDS, 320 g or BLACK DIAMOND CHEESTRINGS or SNACKS, 252/336 g","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","PATTY KING JAMAICAN STYLE BEEF PATTIES, 1.17 kg","N/A",$8.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","PC® PASTA SAUCE, 410-650 mL","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","NO NAME® PURE WHITE VINEGAR, 4 L","N/A",$2.79,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","FARMER'S MARKET™ MANDARINS or LEMONS, 2 LB BAG","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","GRACE HOT PEPPER SAUCE, 170 ml","N/A",$1.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","NESTLÉ DRUMSTICK or KIT KAT CONES, 4's","N/A",$4.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","NESCAFÉ ICED INSTANT COFFEE, 100 g","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","CHRISTIE PREMIUM PLUS CRACKERS, 450/481 G","N/A",$4.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","DARE VIVA PUFFS, WAGON WHEELS, ULTIMATE or BEAR PAWS COOKIES, 168-360 g","N/A",$2.50,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","APRICOTS, 1 L","N/A",$6.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","NO NAME® ICE CREAM SANDWICHES or BARS, 24/30's","N/A",$11.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","NO NAME® SHREDDED CHEESE, 900 g","N/A",$13.50,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","817 ELEPHANT BRAND BASMATI RICE 4 kg or GOLD PARBOILED or LONG GRAIN RICE 8 kg","N/A",$11.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","PORK COMBO CHOPS","N/A",$5.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","BOLTHOUSE FARMS SMOOTHIES OR JUICE, 946 ml","N/A",$3.50,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","BECEL MARGARINE, 637/800 G","N/A",$6.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","WONDER BREAD 570/675 g or BUNS 8's","N/A",$3.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055480,"No Frills","N/A","CELERY","N/A",$2.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
 8055480,"No Frills","N/A","WONDER BREAD, 570/675 g or BUNS, 8's","N/A",$3.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
 8055480,"No Frills","N/A","PC® SHREDDED CHEESE, 250-320 G OR ARMSTRONG CHEESE, 400 G","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
 8055480,"No Frills","N/A","CRACKER BARREL CHEESE SLICES, 200-240 g","N/A",$4.77,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
@@ -503,6 +468,41 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8055480,"No Frills","N/A","WHITE POTATOES, 10 LB BAG","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
 8055480,"No Frills","N/A","BASA FILLETS, 400 G","N/A",$5.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
 8055480,"No Frills","N/A","PC® MAX™ PAPER TOWELS, 3-6 rolls","N/A",$7.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","HABITANT SOUP, 796 ML OR CAMPBELL'S READY TO SERVE SOUP, 515 ML","N/A",$2.50,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","NO NAME® BEEF BURGERS, 1.36 KG","N/A",$20.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","NO NAME® PEANUT BUTTER, 1 KG","N/A",$4.50,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","FARMER'S MARKET™ YELLOW PEACHES, 3 L","N/A",$5.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","RUTABAGAS","N/A",$0.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","WHOLE SEEDLESS WATERMELON, 9 LB AVERAGE","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","NO NAME® CHEESE BARS, 700 g","N/A",$8.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","CAULIFLOWER","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","EXTRA LEAN GROUND BEEF, 450 g","N/A",$8.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","817 BASMATI RICE, 4 KG, GOLD PARBOILED RICE OR LONG GRAIN RICE, 8 KG","N/A",$11.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","PC® WINE VINEGAR, 500 mL","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","NO NAME® CANOLA or VEGETABLE OIL, 3 L","N/A",$7.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","KNORR SIDEKICKS, 120-162 g","N/A",$1.89,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","FANCY FEAST WET CAT FOOD, 12x85 g","N/A",$9.50,$10.00,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","FARMER'S MARKET™ CORTLAND APPLES, 4 LB BAG","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","NO NAME® MAYONNAISE, 890 ML","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","SUFRA® HALAL BONELESS SKINLESS CHICKEN BREAST, 645 g","N/A",$14.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","NO NAME® MARSHMALLOWS, 400 g","N/A",$2.50,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","NO NAME® POPSICLES, 30's","N/A",$8.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","BICK'S PICKLES, 1 L","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","NO NAME® GROUND COFFEE, 907 G","N/A",$15.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","HANS DAIRY DAHI YOGURT, 750 g","N/A",$2.29,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","BRAR'S MALAI PANEER, 375 g","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","YELLOW PLUMS, 1.5 L","N/A",$6.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","PC® BLACK LABEL ICE CREAM, 500 ML OR CHAPMAN'S YUKON NOVELTIES, 5-8'S","N/A",$4.50,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","PC® INSTANT COFFEE, 80-100 g","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","MCCAIN SUPERFRIES OR SPECIALTY FRIES 454-800 G OR POCKETS 300 G","N/A",$2.77,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","DILL CUCUMBERS, 3 L","N/A",$6.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","KELLOGG'S FROSTED FLAKES LESS SUGAR MULTIGRAIN CEREAL, 338 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","GRACE COCONUT WATER, 500 mL","N/A",$0.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","PC® SALAD DRESSING, 475 ml","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","MAISON PERRIER SPARKLING WATER, 1 L","N/A",$1.69,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","BOURSIN CHEESE, 150/220 G OR MARCANGELO SLICED MEATS, 85 G","N/A",$5.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","GREEN CABBAGE","N/A",$0.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055480,"No Frills","N/A","PURE LEAF ICED TEA, 1.75 L, TROPICANA LEMONADE or FRUIT BEVERAGES, 1.36 L","N/A",$3.50,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
 8061817,"Wholesale Club and Club Entrepôt","N/A","CANDIES, 44-64 G","N/A",$17.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
 8061817,"Wholesale Club and Club Entrepôt","N/A","SIMPLY LIQUID LAUNDRY DETERGENT, 2.72 L","N/A",$11.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
 8061817,"Wholesale Club and Club Entrepôt","N/A","COUGH DROP, 20'S","N/A",$19.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
@@ -895,6 +895,14 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8055548,"Atlantic Superstore","N/A","PILLER'S KOLBASSA SAUSAGE, 250/375 G OR BALDERSON CHEDDAR, 250/280 G OR GOUDA, 170/200 G","N/A",$8.00,$10.79,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
 8055548,"Atlantic Superstore","N/A","CHARRAS CORN TOSTADAS ORIGINAL FLAVOUR WITH SEA SALT, 350 G","N/A",$3.25,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
 8055548,"Atlantic Superstore","N/A","CELSIUS® ENERGY DRINK OR ALANI® ENERGY DRINK, 355 mL","N/A",$6.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055548,"Atlantic Superstore","N/A","PAMPERS SUPER BIG PACK DIAPERS, SIZES 1-7, 42-96'S","N/A",$27.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055548,"Atlantic Superstore","N/A","SPEED STICK PREMIUM DEODORANT, 45-85 G OR SKINTIMATE/EDGE SHAVE GEL, 198 ML","N/A",$3.50,$4.29,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055548,"Atlantic Superstore","N/A","COLGATE OPTIC WHITE OR SENSITIVE PRO RELIEF TOOTHPASTE, 70-150 ML, KIDS MANUAL TOOTHBRUSHES, 2'S, HELLO TOOTHPASTE, 82-98 ML OR COLGATE PERIODONTAL TOOTHPASTE, 70 ML","N/A",$6.50,$7.49,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055548,"Atlantic Superstore","N/A","CREST PRO HEALTH GUM DETOXIFY TOOTHPASTE, 110 ML, ORAL-B FLOSS TWIN PACK OR CREST PRO HEALTH ADVANCED RINSE, 1 L","N/A",$8.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055548,"Atlantic Superstore","N/A","FROM OUR CHEFS™ SERVICE CASE HAM","N/A",$3.25,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055548,"Atlantic Superstore","N/A","IVORY BODY WASH, 1035 ML","N/A",$7.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055548,"Atlantic Superstore","N/A","HUGGIES PULL-UPS TRAINING PANTS, TRAINING UNDERWEAR SIZES, 2T-3T TO 5T-6T, 66-104'S OR PAMPERS EASY UPS TRAINING UNDERWEAR SIZES, 2T-3T TO 5T-6T, 52-112'S","N/A",$37.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
+8055548,"Atlantic Superstore","N/A","PC ORGANICS PORTOBELLO MUSHROOM CAP, 4'S","N/A",$7.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
 8055548,"Atlantic Superstore","N/A","LIVE CLEAN, DOVE, CERAVE OR CETAPHIL BABY BABY NEEDS","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
 8055548,"Atlantic Superstore","N/A","PAMPERS BABY WIPES, 1008'S","N/A",$26.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
 8055548,"Atlantic Superstore","N/A","TENA UNDERWEAR OR PADS","N/A",$18.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
@@ -945,11 +953,3 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8055548,"Atlantic Superstore","N/A","KELLOGG'S RICE KRISPIE SQUARES, 175 G, NUTRI-GRAIN BARS, 295 G OR POP TARTS PASTRIES, 384 G","N/A",$9.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
 8055548,"Atlantic Superstore","N/A","HEINZ MAYONNAISE-STYLE SAUCES, 340 mL","N/A",$3.50,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
 8055548,"Atlantic Superstore","N/A","ALEXIS DE PORTNEUF BRIE OR CAMEMBERT, 125 G","N/A",$5.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055548,"Atlantic Superstore","N/A","DAN-D PAK CASHEWS, 500 G","N/A",$8.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055548,"Atlantic Superstore","N/A","SUNRISE LARGE WAX BOLOGNA, 2 KG","N/A",$17.50,$22.00,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055548,"Atlantic Superstore","N/A","PC® BONE-IN CHICKEN THIGHS OR DRUMSTICKS","N/A",$13.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055548,"Atlantic Superstore","N/A","CHINESE JUMBO CARROTS","N/A",$1.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055548,"Atlantic Superstore","N/A","BRAR'S DESI GHEE COOKING OIL, 800 G","N/A",$15.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055548,"Atlantic Superstore","N/A","NO NAME® ICE MILK, 4 L","N/A",$8.50,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055548,"Atlantic Superstore","N/A","CHARMIN BATH TISSUE, 12-48 roll","N/A",$18.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
-8055548,"Atlantic Superstore","N/A","LOCAL ATLANTIC STRAWBERRIES, QUART","N/A",$6.50,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-05T23:59:59-04:00,"N/A",B3K0H6
