@@ -62,6 +62,7 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8071953,"Walmart","N/A","Nutella biscuits","N/A",$6.67,$7.47,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
 8071953,"Walmart","N/A","Jetstream 3-Piece backpack set","N/A",$24.97,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
 8071953,"Walmart","N/A","Palmolive dish soap","N/A",$1.97,$3.27,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
+8071953,"Walmart","N/A","Hellmann's real mayonnaise 710-890 mL","N/A",$6.47,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
 8071953,"Walmart","N/A","Sistema food storage containers","N/A",$9.97,$10.72,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
 8071953,"Walmart","N/A","Nature's Path Love Crunch organic protein chocolate and almond butter or strawberry cheesecake granola","N/A",$5.98,$7.97,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
 8071953,"Walmart","N/A","Healthy Choice Simply Steamers frozen entrees","N/A",$4.97,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
@@ -148,7 +149,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8071953,"Walmart","N/A","Paper Mate Flair! felt-tip pens","N/A",$15.98,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
 8071953,"Walmart","N/A","Sharpie Toy Story 5 permanent markers","N/A",$3.48,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
 8071953,"Walmart","N/A","Pen+Gear school list kit","N/A",$16.98,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
-8071953,"Walmart","N/A","Lysol wipes","N/A",$5.47,$6.47,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
 8070070,"Walmart","N/A","Maxwell House ground coffee","N/A",$15.97,$18.97,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
 8070070,"Walmart","N/A","Coca-Cola Pop","N/A",$2.48,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
 8070070,"Walmart","N/A","Samyang Buldak ramen noodles","N/A",$2.98,$3.47,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
@@ -449,6 +449,7 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8061355,"Sobeys","N/A","MIO, Kool-Aid or Crystal Light Water Enhancers","N/A",$3.99,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T22:59:59-04:00,"N/A",B3K0H6
 8061355,"Sobeys","N/A","Fresh Atlantic Salmon Roasts with Mediterranean Style Stuffing","N/A",$12.99,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T22:59:59-04:00,"N/A",B3K0H6
 8061355,"Sobeys","N/A","Nuts or Clusters","N/A",$10.00,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T22:59:59-04:00,"N/A",B3K0H6
+8063244,"Giant Tiger","N/A","Cascade dishwasher tabs","N/A",$4.97,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
 8063244,"Giant Tiger","N/A","Aqua Star Frozen wild Pacific Pink Salmon","N/A",$5.97,$8.97,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
 8063244,"Giant Tiger","N/A","340 g mini carrots","N/A",$0.97,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
 8063244,"Giant Tiger","N/A","Lesters Montréal smoked meat or shaved steak","N/A",$12.97,$14.97,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
@@ -473,7 +474,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8063244,"Giant Tiger","N/A","Sun-Maid mini raisins","N/A",$3.77,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
 8063244,"Giant Tiger","N/A","Dr. Oetker frozen pizza","N/A",$3.47,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
 8063244,"Giant Tiger","N/A","Dawn dish soap","N/A",$4.97,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
-8063244,"Giant Tiger","N/A","Cascade dishwasher tabs","N/A",$4.97,N/A,"N/A",each,"N/A",2026-08-05T00:00:00-04:00,2026-08-11T23:59:59-04:00,"N/A",B3K0H6
 8065009,"No Frills","N/A","STARBUCKS BY NESPRESSO, 10'S","N/A",N/A,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
 8065009,"No Frills","N/A","CAVENDISH FARMS FRIES, 400-750 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
 8065009,"No Frills","N/A","PC® BENTO LUNCH BAGS","N/A",$10.00,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
@@ -624,124 +624,42 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8065009,"No Frills","N/A","KRAFT SALAD DRESSING, 425 ML","N/A",$3.25,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
 8065009,"No Frills","N/A","NESTLÉ CHOCOLATE BAG, 76-203 g","N/A",$4.79,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
 8065009,"No Frills","N/A","PC® HOT EATS FOOD JAR, 440 mL","N/A",$10.00,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","PAPER PLATES, 125'S","N/A",$13.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","CHOCOLATE SYRUP, 510/700 ML","N/A",$6.99,$8.49,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","SAUSAGE SNACK, 112 G","N/A",$5.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","ZESTY ITALIAN DRESSING, 3.78 L","N/A",$36.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","ENERGY DRINKS, 12 X 250 ML","N/A",$22.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","SHRIMPS, 41 / 50 PER LB.","N/A",$18.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","CANDY, 130-170 G","N/A",$3.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","MAYONNAISE, 16 L","N/A",$89.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","Battered Zucchini Sticks","N/A",$24.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","PLUM SAUCE, 4 L","N/A",$18.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","BATHROOM TISSUE, 15=30 ROLLS","N/A",$8.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","MINI CELLO BAGS, 76-203 G","N/A",$4.69,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","FAMILY SIZE CEREAL, 450-650 G","N/A",$6.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","CANDIES, 44-64 G","N/A",$17.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","SMOKIES SAUSAGES, 1 KG","N/A",$26.00,$29.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","NESTLÉ KING SIZE CHOCOLATE BARS","N/A",$42.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","FROZEN PRODUCTS","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","WEDGE FRIES, 2.27 KG","N/A",$36.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","PIZZA MOZZARELLA 17% M.F., 52% MOISTURE, 2.4 KG","N/A",$30.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","BREADED CHICKEN NUGGETS, BURGERS OR STRIPS, 1.81 KG","N/A",$20.00,$21.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","CHICKEN BREASTS, 4 KG","N/A",$58.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","6"" FLOUR TORTILLAS, 12'S","N/A",$3.29,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","NESTEA ICED TEA CRYSTALS, 2.2 KG","N/A",$12.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","DRINKS, 12'S","N/A",$34.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","Brazilian Chicken Wings","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","SNACKPACK PUDDING OR JUICY GELS","N/A",$2.19,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","ICELANDIC NATURAL SPRING WATER, 30 x 330 ML (11.1 FL OZ) BOTTLES","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","TORTILLA CHIPS, 48'S","N/A",$38.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","10"" TORTILLAS, 12'S","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","RICH BLEND INSTANT COFFEE, 475 G","N/A",$14.99,$16.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","DISH SOAP WITH PUMP, 3.78 L","N/A",$15.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","FETA CHEESE, 22% M.F., 3 KG","N/A",$37.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","SOUP, 1.36 L","N/A",$5.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","ICELANDIC GLACIAL SPRING WATER, 30 X 330 ML","N/A",$29.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","13 FLOUR TORTILLAS, 12'S","N/A",$9.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","ALMOND, SOY, OAT OR COCONUT MILK ALTERNATIVES OR FORTIFIED OAT BEVERAGES, 946 ML","N/A",$2.79,$2.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","BOWLS, 8 OZ, 50'S","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","VARIETY PACK, 12'S","N/A",$31.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","BROWNIE BATTER, 8 KG","N/A",$32.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","BACON, 5 KG","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","Creamy Caesar","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","GOLD PIZZA MOZZARELLA, 20% M.F.","N/A",$33.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","SOY, ALMOND, COCONUT, CASHEW OR OAT BEVERAGES, 1.75/1.89 L","N/A",$4.49,$4.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","MINI CHURROS OR DONUTS, 500 G / 600 G","N/A",$12.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","Skittles","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","EASY MELT MOZZARELLA FLAVOURED CHEESE SHREDS, 2.27 KG","N/A",$28.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","PARTY CUPS, 18 OZ, 100'S","N/A",$13.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","PEANUT OR MILK CHOCOLATE CELEBRATION SIZE, 800 G","N/A",$16.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","12"" FLOUR TORTILLAS, 12'S","N/A",$7.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","CHOCOLATE EGGS, 24'S","N/A",$30.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","CREAMY CAESAR, 3.78 L","N/A",$32.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","CERO ALCOHOL-FREE BEER, 12 X 330/355 ML","N/A",$18.99,$23.49,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","Christie Triscuits, Good Thins or Wheat Thins Crackers","N/A",$1.88,$3.00,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","KRAFT PAPER TOWEL ROLLS, 12'S","N/A",$14.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","DICED CHICKEN, 4.54 KG","N/A",$69.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","CHOCOLATE POUCHES, 160-235 G","N/A",$5.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","JERKY, 230 G","N/A",$14.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","San Pellegrino and Masion Perrier","N/A",$9.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","REAL CANADIAN WATER, 24 X 500 ML","N/A",$3.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","KETCHUP, 1 L","N/A",$4.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","DONAIR MEAT CONE, 15.5 KG","N/A",$164.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","SOFT DRINKS, 12 X 355 ML","N/A",$16.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","SINGLE CHOCOLATE BARS, 48'S","N/A",$47.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","BATTERED MACARONI & CHEESE WEDGES, 1.36 KG","N/A",$19.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","HOMESTYLE BROWNIES, 2.475 KG","N/A",$41.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","YOGURT, 16 X 100 G","N/A",$6.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","STRAIGHT CUT FRIES, 2.27-13.62 KG","N/A",$33.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","SOFT DRINKS OR ICED TEA, 1 L OR SPORTS DRINK, 828 ML","N/A",$22.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","KETTLE COOKED POTATO CHIPS, 40'S","N/A",$30.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","KETCHUP, 4 L","N/A",$12.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","SLICED DELI MEAT, 500 G","N/A",$16.00,$19.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","MINA HALAL CHICKEN DRUMSTICK","N/A",$39.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","SPORT DRINKS, 6 X 591 ML","N/A",$6.29,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","SPARKLING ICE BEVERAGES, 12 X 355 ML","N/A",$12.99,$14.29,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","ICED TEA, 12 X 695 ML","N/A",$12.99,$14.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","RPET CUPS, 12 OZ, 50'S","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","HALAL CHICKEN BREAST, 4 KG","N/A",$69.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","SINGLE CHOCOLATE BARS, 24'S","N/A",$27.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","KRAFT RANCHER'S CHOICE, 3.78 L","N/A",$32.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","Miss Vickie's® kettle cooked potato chips","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","HYDRATION BEVERAGE & RECOVERY DRINK, 12 X 625 ML","N/A",$27.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","SELLA BASMATI RICE, 18.2 KG","N/A",$54.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","SMOKED BLACK FOREST HAM","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","Miracle Whip Spread","N/A",$9.95,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","NATURALY FLAVORED SPARKLING WATER, 12 X 355 ML OR 10 X 355 ML","N/A",$6.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","NATURALLY IMPERFECT FROZEN FRUIT, 2 KG","N/A",$14.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","JAMAICAN STYLE BEEF PATTIES, 1.17 KG","N/A",$11.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","Golden Italian","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","SOY SAUCE, 8 L","N/A",$28.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","CORONA® 0.0%, 12 X 330 mL","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","HOSTESS SNACK CAKES","N/A",$3.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","PODS LAUNDRY DETERGENT, 18-31'S, LAUNDRY DETERGENT, 1.86 L, LIQUID FABRIC SOFTENER, 1.66/2.63 L OR SCENT BOOSTERS, 379 G","N/A",$11.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","VEGETABLE SPRING ROLLS, 2.8 KG","N/A",$13.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","PINTY'S BUFFALO CHICKEN FLINGS","N/A",$64.99,$69.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","JUMBO CEREAL, 730 G-1.01 KG","N/A",$9.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","DIANA SAUCE, 500 mL","N/A",$3.59,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","MEAT OR SEAFOOD SELECTION, 200 G - 1.8 KG","N/A",$10.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","DAWN PLATINUM DISHWASHING LIQUID, 2.01 L","N/A",$11.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","WHOLE TOUPIE HAM","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","DELI AND PROCESSED MEATS","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","CORONA® 0.0%, 12 X 355 mL","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","BURRITOS, 113 G","N/A",$4.00,$5.38,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","EXCEL","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","POTATO CHIPS, 40'S","N/A",$30.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","MINERAL WATER, 12 x 750 ML","N/A",$26.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","EXTRA VIRGIN OLIVE OIL, 2.85 L","N/A",$35.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","Lay's® potato chips","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","GRILL CLEANER, 10 L","N/A",$26.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","ICED TEA, 24 X 341 ML","N/A",$13.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","GRILL CLEANER, 4 L","N/A",$13.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","SPRING WATER GLASS, 12 X 750 ML","N/A",$26.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","PARMESAN PETALS, 300 G","N/A",$10.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","SLICES PROCESSED CHEESE PRODUCT, 410 G","N/A",$3.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","BECEL MARGARINE, 800 G","N/A",$6.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","ICE-CREAM CUP, 8 OZ 25'S","N/A",$1.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","MAYONNAISE, 16 L","N/A",$89.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","DUSTER REFILLS, 16'S","N/A",$17.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","WONDER BREAD, 570 G","N/A",$3.19,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","TURNOVER COOKIES, 300 G","N/A",$2.79,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","BREAKFAST SAUSAGES, 5 KG","N/A",$56.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","DARE CANDY","N/A",$4.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","VARIETY PACK SNACKS, 42 X 28 G","N/A",$19.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","KETCHUP,2.84 L","N/A",$9.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","CRIPSY RUFFLED CHICKEN BREAST STRIPS, 5.67 KG","N/A",$134.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","PLANT-BASED, 40'S","N/A",$99.99,$109.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","ORIGINAL ICE CREAM, FROZEN YOGURT OR SORBET, 11.4 L","N/A",$29.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","CLIF BAR, 12 X 68 G","N/A",$17.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","LIQUID, 100 LD OR PLUS TRF, 77 ML","N/A",$15.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","COOKIES, 224-303 G","N/A",$3.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","DOME LIDS, 9-24 OZ, 50'S","N/A",$3.19,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","HOT BANANA PEPPER RINGS, 3.78 L","N/A",$11.49,$14.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","CLAMATO COCKTAIL, 1.89 L","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","GUM, 12'S","N/A",$11.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","PLATINUM LIQUID 2.93 L OR WET REFILL, 24'S","N/A",$10.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","ROLLED TORTILLA CHIPS, 18'S","N/A",$27.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","CHOCOLATE POUCHES, 160-235 G","N/A",$4.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","ENERGY DRINKS, 12 X 473 ML","N/A",$23.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","SOFT DRINKS, 6 X 710 ML","N/A",$4.49,$5.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","THICK & JUICY™ BURGERS, 40'S","N/A",$69.99,$83.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","PIZZA BOXES, 12"", 50'S","N/A",$25.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","MARGARINE, 400 G","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","GREEK YOGURT, 1.5 KG","N/A",$11.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","ICE CREAM, 11.4 L","N/A",$25.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","SUNDAE CUPS ICE CREAM, 12 X 115 G","N/A",$7.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","LEAN GROUND BEEF","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","BUTTER CHICKEN, 4 L","N/A",$35.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","JASMINE GOLD THAI SCENTED JASMINE RICE, 18 KG","N/A",$33.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","PORTION CUPS, 2 OZ, 200'S","N/A",$3.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","ROPES, 283-454 G","N/A",$2.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","PHILADELPHIA CREAM CHEESE SPREAD, 3 KG","N/A",$47.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","GREEK FETA & OREGANO DRESSING, 3.78 L","N/A",$36.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","MARS OR AFFILIATES.","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","CHICK PEAS, CHANA DAL OR KALA CHANA, 4.99 KG","N/A",$16.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","RITZ, TRISCUIT OR WHEAT THINS CRACKERS, 182 - 325 g","N/A",$2.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
 8061817,"Wholesale Club and Club Entrepôt","N/A","BROWN GRAVY MIX, 467 G","N/A",$6.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
 8061817,"Wholesale Club and Club Entrepôt","N/A","TRIDENT SUGAR-FREE GUM","N/A",$15.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
 8061817,"Wholesale Club and Club Entrepôt","N/A","PIZZA BOX, 12"", 50'S","N/A",$25.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
@@ -772,8 +690,90 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8061817,"Wholesale Club and Club Entrepôt","N/A","HINGED TAKE-OUT CONTAINERS, 9"" X 6"" X 3"" 50'S","N/A",$7.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
 8061817,"Wholesale Club and Club Entrepôt","N/A","ENERGY DRINKS, 12 X 473 ML","N/A",$22.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
 8061817,"Wholesale Club and Club Entrepôt","N/A","COD LOINS, 3-4 OZ, 2.27 KG","N/A",$54.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","ASSORTED PRODUCTS","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
-8061817,"Wholesale Club and Club Entrepôt","N/A","RAW PACIFIC SHRIMP, 16-20 PER LB, 1.36 KG","N/A",$34.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","CORONA® 0.0%, 12 X 330 mL","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","HOSTESS SNACK CAKES","N/A",$3.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","PODS LAUNDRY DETERGENT, 18-31'S, LAUNDRY DETERGENT, 1.86 L, LIQUID FABRIC SOFTENER, 1.66/2.63 L OR SCENT BOOSTERS, 379 G","N/A",$11.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","VEGETABLE SPRING ROLLS, 2.8 KG","N/A",$13.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","PINTY'S BUFFALO CHICKEN FLINGS","N/A",$64.99,$69.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","JUMBO CEREAL, 730 G-1.01 KG","N/A",$9.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","DIANA SAUCE, 500 mL","N/A",$3.59,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","MEAT OR SEAFOOD SELECTION, 200 G - 1.8 KG","N/A",$10.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","DAWN PLATINUM DISHWASHING LIQUID, 2.01 L","N/A",$11.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","DELI AND PROCESSED MEATS","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","CORONA® 0.0%, 12 X 355 mL","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","BURRITOS, 113 G","N/A",$4.00,$5.38,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","EXCEL","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","POTATO CHIPS, 40'S","N/A",$30.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","MINERAL WATER, 12 x 750 ML","N/A",$26.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","EXTRA VIRGIN OLIVE OIL, 2.85 L","N/A",$35.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","Lay's® potato chips","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","GRILL CLEANER, 10 L","N/A",$26.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","ICED TEA, 24 X 341 ML","N/A",$13.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","GRILL CLEANER, 4 L","N/A",$13.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","SPRING WATER GLASS, 12 X 750 ML","N/A",$26.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","PARMESAN PETALS, 300 G","N/A",$10.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","SLICES PROCESSED CHEESE PRODUCT, 410 G","N/A",$3.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","BECEL MARGARINE, 800 G","N/A",$6.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","ICE-CREAM CUP, 8 OZ 25'S","N/A",$1.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","MAYONNAISE, 16 L","N/A",$89.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","DUSTER REFILLS, 16'S","N/A",$17.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","WONDER BREAD, 570 G","N/A",$3.19,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","POWER WASH STARTER KIT, 473/635 ML","N/A",$6.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","TORTILLA CHIPS, 210-235 G","N/A",$4.79,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","JERK SEASONING HOT OR GREEN SEASONING TUB, 4.2 KG","N/A",$36.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","COFFEE ENHANCER, 1.42 L","N/A",$6.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","CRAZE SNACK CAKES INDIVIDUALLY WRAPPED, 6'S / 8'S","N/A",$5.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","COOKIES, 300 G","N/A",$2.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","HOUSEHOLD CLEANING & PAPER ESSENTIALS","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","LIQUID, 83-100 LOADS OR PLATINUM PLUS, 51-80'S","N/A",$22.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","HALAL OR DAHI YOGOURT, 750 G","N/A",$2.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","PIZZA MOZZARELLA CHEESE, 2.3 KG","N/A",$28.99,$34.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","SNACKS BAR, 12'S","N/A",$17.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","CHICKEN BOUILLON BROTH MIX, 1 KG","N/A",$10.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","BAGASSE CONTAINERS, 6"" X 9"", 50'S","N/A",$10.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","JUMBO DELI CRISP CHICKEN WINGS","N/A",$124.99,$134.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","KETCHUP JUG, 2.84 L","N/A",$11.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","INDIVIDUALLY WRAPPED COOKIES, 6'S / 8'S","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","POTATO CHIPS 148/156 G OR CRACKERS 191/200 G","N/A",$2.79,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","GUM, 12'S","N/A",$11.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","PACKAGED CANDY, (82 - 189 G)","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","JUICE OR ICED TEA, 960 ML","N/A",$1.99,$2.29,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","JUMBO REGULAR, 60'S","N/A",$15.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","NESTLE SINGLE CHOCOLATE BARS","N/A",$47.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","COCONUT MILK, 2.9 L","N/A",$13.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","BACON, 5 KG","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","FRUITSOURCE FRUIT BARS, 72 X 14 G OR FRUIT TO GO FRUIT SNACKS, 30 X 37 G","N/A",$24.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","SWEET RELISH, 3.78 L","N/A",$11.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","BEAR PAWS COOKIES, 490 G","N/A",$5.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","Nestle Kit Kat, Aero or Crunch tablets","N/A",$1.75,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","PAPER PLATES, 125'S","N/A",$13.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","CHOCOLATE SYRUP, 510/700 ML","N/A",$6.99,$8.49,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","SAUSAGE SNACK, 112 G","N/A",$5.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","ZESTY ITALIAN DRESSING, 3.78 L","N/A",$36.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","ENERGY DRINKS, 12 X 250 ML","N/A",$22.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","SHRIMPS, 41 / 50 PER LB.","N/A",$18.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","CANDY, 130-170 G","N/A",$3.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","MAYONNAISE, 16 L","N/A",$89.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","Battered Zucchini Sticks","N/A",$24.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","PLUM SAUCE, 4 L","N/A",$18.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","BATHROOM TISSUE, 15=30 ROLLS","N/A",$8.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","MINI CELLO BAGS, 76-203 G","N/A",$4.69,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","FAMILY SIZE CEREAL, 450-650 G","N/A",$6.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","CANDIES, 44-64 G","N/A",$17.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","BATTERED OR BEEFEATER ONION RINGS, 4 KG","N/A",$35.49,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","ORIGINAL REDHOT SAUCE, 3.78 L","N/A",$16.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","GUM BOTTLES, 6'S","N/A",$19.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","SOFT DRINKS, 591 ML","N/A",$2.29,$2.79,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","PORTION CUP LIDS, 1.5/2/2.5 OZ","N/A",$1.89,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","PROFESSIONAL LIQUID LAUNDRY DETERGENT, 5.02 L","N/A",$32.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","PREMIUM ICE CREAM, 11.4 L","N/A",$35.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","PREMIUM ICE CREAM, 11.4 L","N/A",$35.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","Country Farms Shredded Mexi Blend or Pizza Topping","N/A",$13.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","BATHROOM TISSUE, 24'S","N/A",$18.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","CARBONATED FRUIT DRINKS, 6 X 250 ML","N/A",$9.99,$13.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","MUFFIN BATTER, 3.63 KG","N/A",$28.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","COUGH DROP, 20'S","N/A",$19.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
+8061817,"Wholesale Club and Club Entrepôt","N/A","Frito-Lay® Variety Pack","N/A",N/A,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-08-19T23:59:59-04:00,"N/A",B3K0H6
 8065412,"Atlantic Superstore","N/A","LARSEN WIENERS OR SUNRISE SLICED BOLOGNA, 375 G","N/A",$3.00,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
 8065412,"Atlantic Superstore","N/A","HIGH LINER FISH STICKS, FILLETS OR SHRIMP, 315-700 G","N/A",$5.99,$10.99,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
 8065412,"Atlantic Superstore","N/A","ARM & HAMMER MULTI- CAT, 6.35/6.4 KG OR DOUBLE DUTY, 12.7 KG CAT LITTER","N/A",$17.00,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
@@ -924,29 +924,33 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8065412,"Atlantic Superstore","N/A","STIC WRAP, 60 M OR REYNOLDS PARCHMENT PAPER, 35 FT","N/A",$5.00,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
 8065412,"Atlantic Superstore","N/A","YOUTHEORY HEALTH SUPPLEMENTS","N/A",N/A,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
 8065412,"Atlantic Superstore","N/A","RIO MARE INSALATISSIME TUNA SALADS OR GOLD SEAL WILD SALMON BOWLS, 160 G","N/A",$4.50,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","No Boundaries cropped cami","N/A",$5.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","George oversized tee","N/A",$7.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","No Boundaries Women's Tiered Skort","N/A",$17.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Kids' or toddlers' licensed athletic shoes","N/A",$29.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Dove Men+Care Fresh & Clean, Th•ck & Strong or Dryness & Itch Relief shampoo an conditioner","N/A",$8.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Men's original denim shirt","N/A",$34.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","George Fleece Crew or Woven Pant","N/A",$12.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Athletic Works active leggings","N/A",$12.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Vitamasques lip butter balm","N/A",$6.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Thermos licensed 16-oz bottle","N/A",$15.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","No Boundaries women's sneakers","N/A",$29.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Advil Migraine","N/A",$16.27,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","No Boundaries lace cami","N/A",$8.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Fit + Fresh Townsend lunch bags","N/A",$16.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","7-piece bag set","N/A",$19.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Avia adults' performance sneakers","N/A",$34.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Suave body wash or antiperspirant","N/A",$3.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Suave body wash","N/A",$3.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","George fleece sweatpants","N/A",$18.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","No Boundaries picot trimmed tee","N/A",$10.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Daise body mists","N/A",$6.96,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Heys 2-piece licensed backpack set","N/A",$19.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","George kids' casual shoes","N/A",$24.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Sally Hansen Miracle Gel Super Shiny Shield top coat","N/A",$10.76,$11.96,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Athletic Works kid's sneakers","N/A",$19.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Mainstays twin, double or queen bed in a bag","N/A",$49.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Avia adults performance sneakers","N/A",$34.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Rimmel Multi Tasker concealer","N/A",$9.97,$13.77,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Sally Hansen Insta-Dri Color Shift nail colour","N/A",$8.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","George toddlers' fleece set","N/A",$12.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Heys 2-piece licensed backpack set","N/A",$19.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Thermos licensed 16-oz. bottle or 10-oz. food jar.","N/A",$15.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","George short-sleeved graphic tee","N/A",$5.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Women's cinched waist jean","N/A",$36.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","No Boundaries women's oversized sweater","N/A",$22.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Athletic Works kids' or toddlers' athletic shoes","N/A",$15.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
@@ -959,35 +963,26 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8033575,"Walmart","N/A","Daise body mats","N/A",$6.96,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","No Boundaries Flare Pants","N/A",$12.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Rimmel Multi Tasker concealer","N/A",$9.97,$13.77,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Ninja programmable drip coffee maker","N/A",$99.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Sally Hansen Insta-Dri Color Shift nail colour","N/A",$8.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Minecraft short-sleeved tee","N/A",$13.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","No Boundaries Knit Skort","N/A",$15.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Hero Mighty Patch Body 4-pack","N/A",$19.47,$22.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Levi Strauss Signature Women's relaxed fit denim shirt","N/A",$34.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Kids' or toddlers licensed athletic shoes","N/A",$29.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Dove Men+Care Fresh & Clean, Thick & Strong or Dryness & Itch Relief shampoo and conditioner","N/A",$8.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Mainstays 2-pack bath towels","N/A",$16.92,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Sally Hansen Insta—Dri Color Shift nail colour","N/A",$8.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","George zip-up hoodie","N/A",$18.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Daise body mists","N/A",$6.96,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","George toddlers' flannel shirt and pants set","N/A",$16.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Hard Candy Blush on Lock Duo","N/A",$12.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","PatPat kids' slip-on canvas shoes","N/A",$34.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Sensodyne Clinical Repair or White toothpaste","N/A",$7.97,$9.27,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","George Women's Blazer","N/A",$39.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Daise body mists","N/A",$6.96,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","CeraVe Retinol serum","N/A",$25.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Thermos licensed 16-oz. bottle or 10-oz. food jar. Heys licensed lunch bags","N/A",$17.97,$19.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Philips OneBlade 1st Shave","N/A",$34.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Dove Advanced Care dry spray","N/A",$9.46,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","No Boundaries oversized tee","N/A",$14.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Avia adults performance sneakers","N/A",$34.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Mainstays Novelty Bath Mat","N/A",$9.92,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","No Boundaries oversized hoodie.","N/A",$24.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","George varsity tee","N/A",$8.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Garnier vitamin C serum","N/A",$17.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Mainstays 16"" x 16 2-pack cushions","N/A",$22.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Waffle henley top","N/A",$16.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Philips OneBlade Intimate","N/A",$39.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Avia kids or toddlers' athletic shoes","N/A",$29.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
@@ -996,9 +991,7 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8033575,"Walmart","N/A","George boys canvas jacket","N/A",$35.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Mainstays kitchen gadgets","N/A",$2.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","No Boundaries zip-up sweater or cropped cami","N/A",$22.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Fit + Fresh Townsend lunch bags","N/A",$16.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","George fleece hoodie","N/A",$12.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","School Yard Vibes 3-piece backpack set","N/A",$29.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Anko mushroom lamp","N/A",$19.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Athletic Works kids sneakers","N/A",$19.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Rimmel Multi Tasker Concealer","N/A",$9.97,$13.77,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
@@ -1007,10 +1000,8 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8033575,"Walmart","N/A","Hard Candy Blush On Lock duo","N/A",$12.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","No Boundaries men's casual shoes","N/A",$29.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","George kids' casual shoes","N/A",$24.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Kids Ddrops® Booster liquid vitamin D3","N/A",$10.97,$12.47,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Mickey Mouse and Friends bomber jacket","N/A",$27.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Thermos licensed 16-oz. bottle or 10-oz food jar.","N/A",$17.97,$19.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Centrum Women or Men MultiGummies multivitamins","N/A",$21.93,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Mainstays kitchen gadgets","N/A",$2.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Reebok game day fleece jogger","N/A",$24.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Centrum Junior MultiGummies multivitamins","N/A",$19.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
@@ -1022,28 +1013,23 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8033575,"Walmart","N/A","Sally Hansen Insta-Dri Color Shift nail colour","N/A",$8.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Kids Ddrops® probiotic drops","N/A",$13.47,$16.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","AND1 boys' basketball shoes","N/A",$24.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Sally Hansen Insta-Dri Color Shift nail colour","N/A",$8.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Simplehuman plastic step garbage bin","N/A",$70.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","TheraBreath Deep Clean oral rinse","N/A",$14.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Athletic Works kids' or toddlers' athletic shoes","N/A",$15.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Avia adults' performance sneakers","N/A",$34.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","George women's pants","N/A",$25.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Rimmel Multi Tasker Concealer","N/A",$9.97,$13.77,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Keurig® K-Mini Mate™ Plus single-serve coffee maker","N/A",$119.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Reebok game day fleece hoodie","N/A",$24.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","No Boundaries oversized zip-up hoodie","N/A",$22.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Reebok backpack","N/A",$34.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Daise body mists","N/A",$6.96,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Spider-Man short-sleeved tee","N/A",$10.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Kids' or toddlers' licensed athletic shoes","N/A",$29.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Shark LU240C upright vacuum","N/A",$299.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","No Boundaries women's sneakers","N/A",$29.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Thermos licensed 16-oz. bottle or 10-oz. food jar. Heys licensed lunch bags","N/A",$15.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Sally Hansen Insta-Dri Color Shift nail colour","N/A",$8.47,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Batiste dry shampoo","N/A",$10.48,$11.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","No Boundaries Hats","N/A",$12.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","George fleece hoodie, fleece crew or woven pants","N/A",$12.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Toastmaster chopper","N/A",$19.88,$26.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Rimmel Multi Tasker concealer","N/A",$9.97,$13.77,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","No Boundaries women's empire top","N/A",$17.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Mainstays 8-pack washcloths","N/A",$9.92,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
@@ -1053,19 +1039,24 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8033575,"Walmart","N/A","George kids' or toddlers' casual shoes","N/A",$24.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","No Boundaries hats","N/A",$12.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Mainstays Cozy throws","N/A",$24.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","George short- sleeved graphic tee","N/A",$5.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Mainstays kitchen gadgets","N/A",$2.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Anko novelty candles","N/A",$19.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Toastmaster toaster or sandwich maker","N/A",$14.88,$19.98,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","No Boundaries men's casual shoes","N/A",$29.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Skylight calendar","N/A",$449.99,$629.99,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","Mainstays lift-top coffee table","N/A",$128.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","George long sleeved tee","N/A",$8.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Mickey Mouse and Friends bomber jacket","N/A",$27.99,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","No Boundaries women's flats","N/A",$29.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Minecraft licensed backpack","N/A",$24.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","No Boundaries hats","N/A",$12.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","AND1 boys' basketball shoes","N/A",$24.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Reebok spotlight flare leggings","N/A",$19.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Athletic Works kids' or toddlers' athletic shoes","N/A",$15.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","George flannel shirt","N/A",$18.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","George toddlers fleece sets","N/A",$12.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Mainstays black or gold aluminum curved mirror","N/A",$79.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","School Yard Vibes 3-piece backpack set","N/A",$29.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","George graphic tee","N/A",$5.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","George kids' indoor/outdoor slippers","N/A",$18.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","George fleece hoodie","N/A",$14.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","George dress","N/A",$16.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Hello Kitty licensed backpack","N/A",$24.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","George cargo jogger","N/A",$14.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","George kids' or toddlers' casual shoes","N/A",$24.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
@@ -1073,7 +1064,16 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 8033575,"Walmart","N/A","George wide-leg denim","N/A",$18.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","George hooded quilted jacket","N/A",$35.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8033575,"Walmart","N/A","Mario licensed backpack","N/A",$24.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
-8033575,"Walmart","N/A","SodaStream Terra sparkling water maker","N/A",$79.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Colgate Optic White Renewal toothpaste","N/A",$7.98,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Mainstays studio grey futon","N/A",$178.00,$228.97,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","George midi dress","N/A",$22.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","George Kids' Indoor/Outdoor Slippers","N/A",$18.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","No Boundaries women's flats","N/A",$29.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","George fleece jogger","N/A",$10.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","George girls' hooded quilted jacket","N/A",$35.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Heys licensed lunch bags","N/A",$15.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","Avia kids or toddlers' athletic shoes","N/A",$29.97,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
+8033575,"Walmart","N/A","George kids' or toddlers' casual shoes","N/A",$24.00,N/A,"N/A",each,"N/A",2026-07-30T00:00:00-04:00,2026-09-16T23:59:59-04:00,"N/A",B3K0H6
 8072094,"Walmart","N/A","Arm & Hammer Clump & Seal Cat Clumping Litter, 17.2 kg","N/A",$24.67,$27.46,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
 8072094,"Walmart","N/A","One Paw, Cat Harness & Leash Set, Lightweight, Light Blue","N/A",$15.97,N/A,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
 8072094,"Walmart","N/A","57.5''H Cat Tree Tower w/ 2 Condos","N/A",$68.99,$96.99,"N/A",each,"N/A",2026-08-06T00:00:00-04:00,2026-08-12T23:59:59-04:00,"N/A",B3K0H6
